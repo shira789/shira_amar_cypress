@@ -1,0 +1,11 @@
+{
+  "name": "shira_amar_cypress",
+  "version": "1.0.0",
+  "description": "Captain Credit Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shira Amar",
+  "license": "ISC"
+}
